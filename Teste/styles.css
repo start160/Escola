@@ -1,0 +1,16 @@
+
+body{
+    background: rgb(105,105,105)
+}
+header{
+    color: rgb(225, 5, 5);
+    border-bottom: solid 3px black;
+    margin: 15px;
+}
+
+.subtiyulo{
+    font-size:xx-large;
+    color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
